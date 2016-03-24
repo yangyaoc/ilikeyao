@@ -1,2 +1,2 @@
 # ilikeyao
-My first website.
+I used the HTML & CSS skills I learned on Udacity to build this website.
